@@ -8,7 +8,7 @@ To ensure data accuracy and demonstrate cross-platform proficiency, this analysi
 2.  **Tableau:** For building a scalable, globally accessible dashboard and validating Excel findings.
 
 ## 🔗 Interactive Dashboard
-👉 **[Click Here to View the Live Tableau Dashboard]([https://public.tableau.com/views/BikeSales_17645955638000/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])**
+👉 **[Click Here to View the Live Tableau Dashboard](https://public.tableau.com/views/BikeSales_17645955638000/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
